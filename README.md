@@ -8,6 +8,10 @@ Task I did : <br>
 
 <br><br>
 
+## Deployed link 
+
+https://josh-frontend-abhay-das.vercel.app/
+
 ## Tech Stack Used 
 • HTML <br>
 • CSS <br>
