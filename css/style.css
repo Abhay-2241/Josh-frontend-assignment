@@ -334,6 +334,10 @@ nav{
     padding-top: 122px;
 }
 
+body.modal-open {
+    overflow: hidden;
+  }
+
 .btn3{
     background-color: #1AC073;
     color: #fff;
